@@ -1,2 +1,3 @@
-# structs_python
-Python structures
+# Python structures and methods
+## Structures
+Stack - strict typed, iterable.
