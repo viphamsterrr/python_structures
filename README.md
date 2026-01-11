@@ -1,3 +1,3 @@
 # Python structures and methods
 ## Structures
-Stack - strict typed, iterable.
+Stack, Queue - strict typed, iterable.
